@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">NumberGuessingGame</string>
+    <string name="increase_value" translatable="false">+</string>
+    <string name="decrease_value" translatable="false">-</string>
+    <string name="game_title" translatable="false">Number Guessing</string>
+    <string name="greater" translatable="false">Still Greater !</string>
+    <string name="intial_num" translatable="false">0</string>
+    <string name="check">Check ?</string>
+    <string name="reset">PLay Again</string>
+    <string name="RULES">RULES</string>
+    <string name="instructions">
+        \n
+        A number is already guessed for you between 0 to 50
+    \n\n
+    You have to guess that number
+    \n\n
+    The + sign adds 1 to the number
+    \n\n
+    The - sign subtracts 1 from the number
+</string>
+
+    <!--    <string name="No_2">2. You have to guess that number</string>-->
+    <!--    <string name="No_3">3. The + sign add 1 to the number</string>-->
+    <!--    <string name="No_4">4. The - sign subtract 1 from the number</string>-->
+    <string name="Wish">START GAME</string>
+    <string name="hint">__________?</string>
+    <string name="close">X</string>
+</resources>

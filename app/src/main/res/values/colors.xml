@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="amber">#FFBF00</color>
+    <color name="amehthyst">#9966CC</color>
+    <color name="anti_flash_white">#F2F3F4</color>
+    <color name="Antique_white">#FAEBD7</color>
+    <color name="APRICOT">#FBCEB1</color>
+    <color name="AQUA">#00FFFF</color>
+    <color name="ATOMIC_TANGERINE">#FF9966</color>
+    <color name="AZURE">#007FFF</color>
+    <color name="CREAM_YELLOW">#FFA700</color>
+    <color name="BlueBell">#A2A2D0</color>
+    <color name="BLUE_GREY">#6699CC</color>
+    <color name="BLUE_GREEN">#0D98BA</color>
+</resources>
